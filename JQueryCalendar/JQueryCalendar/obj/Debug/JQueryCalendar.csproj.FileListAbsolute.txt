@@ -1,0 +1,4 @@
+C:\Shital\VSTryOut\JQueryCalendar\JQueryCalendar\bin\JQueryCalendar.dll
+C:\Shital\VSTryOut\JQueryCalendar\JQueryCalendar\bin\JQueryCalendar.pdb
+C:\Shital\VSTryOut\JQueryCalendar\JQueryCalendar\obj\Debug\JQueryCalendar.dll
+C:\Shital\VSTryOut\JQueryCalendar\JQueryCalendar\obj\Debug\JQueryCalendar.pdb
